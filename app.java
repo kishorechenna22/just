@@ -11,13 +11,13 @@ public class HelloWorld {
 			                     Scanner reader = new Scanner(System.in);
 			                             System.out.print("Enter a number: ");
 			    
-			                                     // nextInt() reads the next integer from the keyboard
+			                                     nextInt() reads the next integer from the keyboard
 			                                             int number = reader.nextInt();
 			    
-			                                                     // println() prints the following line to the output screen
+			                                                     println() prints the following line to the output screen
 			                                                             System.out.println("You entered: " + number);
 			                                                                 }
 			                                                                 }
 
 
-just updating a msg from github for checking purpose
+
