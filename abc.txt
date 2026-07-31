@@ -2,6 +2,12 @@ this is a abc file
 
 this is another line just adding
 
+main
 
 
 this is another line in main branch for testing merge conflict
+
+just adding few line to check merge conflict
+
+both lines are same 
+master
